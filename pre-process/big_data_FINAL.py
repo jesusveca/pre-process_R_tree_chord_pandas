@@ -70,11 +70,11 @@ start = timeit.default_timer()
 # # # ######time
 #
 #
-# # # # ########### storage and create .csv file
+# # # # ########### store and create .csv file
 # f = open("only_orig_desti.csv", 'wt')
 # writer = csv.writer(f)
 # writer.writerow( ('Origin','Destination') )
-# # # # ########### storage and create .csv file
+# # # # ########### store and create .csv file
 #
 # # ###### Function that returns the boroCD
 # def find_boroCD(point):
